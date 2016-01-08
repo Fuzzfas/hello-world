@@ -1,4 +1,4 @@
 # hello-world
 demo repo
 
-I am Fuzzfas, master of magic.
+I am Fuzzfas, Master of Magic.
